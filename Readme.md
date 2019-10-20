@@ -6,3 +6,6 @@ https://kiwivm.64clouds.com
 
 shadowsocks address for bwh
 https://kiwivm.64clouds.com/main-exec.php?mode=extras_shadowsocks
+
+black list
+https://kiwivm.64clouds.com/main-exec.php?mode=blacklistcheck
